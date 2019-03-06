@@ -27,7 +27,7 @@ This guide outline the steps needed to start Natours in a development enviroment
  git remote add upstream git@github.com:ngkangting/Natours.git
 ```
 
-Install the Dependencies
+Install npm dependencies
 ------------------
 
 * Install node-sass
@@ -69,7 +69,7 @@ npm install npm-run-all --save-dev
 Development
 ------------------
 
-* Start Natours in development environment
+* Start Natours Project in development environment
 
 ```sh
 npm run start
@@ -78,12 +78,12 @@ npm run start
 Production
 ------------------
 
-* Build Natours for production environment
+* Build Natours Project for production environment
 
 ```sh
 npm run build:css
 ```
 
-View Natours in development environment
+View Natours Project in development environment
 ------------------
-To view Natours in development environment, go to http://localhost:8080
+To view Natours Project in development environment, go to http://localhost:8080
